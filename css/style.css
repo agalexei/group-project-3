@@ -50,6 +50,16 @@ border-color: #CC771C !important;
 box-shadow: 4px 4px 8px rgba(204, 119, 28, 0.2), -4px -4px 8px rgba(255, 255, 255, 0.8) !important;
 }
 
+#navbarSupportedContent > button:hover {
+  background: #FA9508 !important;
+  font-weight: 600;
+  padding: 0.4rem 1.4rem;
+  border-radius: 32px;
+  color: #FFFEFD;
+  border-color: #FA9508 !important;
+  box-shadow: 4px 4px 8px rgba(204, 119, 28, 0.2), -4px -4px 8px rgba(255, 255, 255, 0.8) !important;
+  }
+
 button {
   background: #FA9508 !important;
   font-weight: 600 !important;
