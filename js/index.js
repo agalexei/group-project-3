@@ -3,7 +3,7 @@ $(window).scroll(function(){
 });
 
 var initialSrc = "images/color_logo_White_logo_Transparent.png";
-var scrollSrc = "images/color_logo_orange_logo_Transparent.png";
+var scrollSrc = "images/color_logo_orange_logo_Transparent@2x.png";
 
 $(window).scroll(function() {
    var value = $(this).scrollTop();
