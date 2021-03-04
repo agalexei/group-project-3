@@ -115,6 +115,7 @@ position: absolute;
 top:50%;
 left:50%;
 transform: translate( -50%, -50%);
+margin-top: -24px;
 }
 
 .hero {
@@ -133,6 +134,7 @@ padding-bottom: 1.1rem;
 
 .history {
 background: #12332D !important;
+margin-top: -24px;
 }
 
 .history .text {
