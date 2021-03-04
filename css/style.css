@@ -128,11 +128,6 @@ letter-spacing: 0.2rem;
 padding-bottom: 1.1rem;
 }
 
-.mid .hero a:hover {
-background: white;
-text-decoration: none;
-}
-
 
 /* Order History */
 
@@ -268,14 +263,6 @@ text-decoration: none;
   justify-content: flex-start;
   align-items: flex-start;
   margin: auto;
-  }
-  
-  .impact .text h6 {
-    color: #ffdf5d;
-    font-weight: 800;
-    font-size: 1rem;
-    letter-spacing: 2px;
-    font-family: 'Roboto', sans-serif;
   }
   
   .impact .text h2 {
