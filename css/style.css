@@ -248,6 +248,12 @@ text-decoration: none;
   text-align: center;
   padding: 1rem 1.5rem;
   border-radius: 8px;
+  margin-top: 48px;
+}
+
+.one:hover {
+  transform: scale(1.05);
+  margin-top: 0;
 }
 
 /* impact */
@@ -384,6 +390,10 @@ box-shadow: 4px 4px 8px rgba(204, 119, 28, 0.2), -4px -4px 8px rgba(255, 255, 25
   background: #f3f3f3;
 }
 
+h1 {
+  font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
 h2 {
   font-family: 'PT Sans Narrow', sans-serif !important;
 }
@@ -407,4 +417,18 @@ p {
 
 .bg-black {
 background-color: #12332D !important;
+}
+
+.discover-icons {
+  margin-top: 48px;
+}
+.discover-icons:hover {
+  margin-top: 0;
+  transform: scale(1.1);
+  padding: 8px;
+  margin: 8px;
+}
+
+.arrow-icons:hover {
+  transform: scale(1.1);
 }
