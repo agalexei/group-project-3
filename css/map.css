@@ -1,0 +1,23 @@
+#map {
+    height: 400px;
+    width: 50%;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.map-container {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+#map {
+    height: 600px;
+    width: 60%;
+}

@@ -128,13 +128,6 @@ letter-spacing: 0.2rem;
 padding-bottom: 1.1rem;
 }
 
-.mid .hero a {
-background: #ffdf5d;
-font-weight: 600;
-padding: 0.6rem 1rem;
-border-radius: 32px;
-}
-
 .mid .hero a:hover {
 background: white;
 text-decoration: none;
